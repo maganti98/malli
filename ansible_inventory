@@ -1,0 +1,2 @@
+[webAppServer]
+web_server ansible_ssh_host=HOST ansible_ssh_port=22 ansible_ssh_pass=PASSWORD ansible_ssh_user=USERNAME host_key_checking=false
